@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Montezuma Club]]></title>
         <description><![CDATA[Montezuma Club]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://montezuma.club/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 20:19:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 21:11:44 GMT</lastBuildDate>
+        <atom:link href="http://montezuma.club/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d302940-25bc-4060-a54a-852c51463563.JPG">]]></description>
-            <link>undefined4eacd98b-94b7-445e-8341-1441838d0a8e/index.html</link>
+            <title><![CDATA[Bienvenido a Montezuma]]></title>
+            <description><![CDATA[<article><h1>Bienvenido a Montezuma</h1><p>El condominio Montezuma esta ubicado en la ciudad Grecia, provincia Alajuela, a 4.8 kilómetros este de la entrada a Grecia desde la autopista Bernardo Soto, Radial Arnoldo Kopper Vega.</p></article>]]></description>
+            <link>http://montezuma.club/4eacd98b-94b7-445e-8341-1441838d0a8e/index.html</link>
             <guid isPermaLink="false">4eacd98b-94b7-445e-8341-1441838d0a8e</guid>
-            <pubDate>Mon, 15 Feb 2016 20:19:41 GMT</pubDate>
+            <pubDate>Wed, 24 Feb 2016 21:11:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
