@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: Casa Club en construccion
-datePublished: '2016-02-25T07:32:53.377Z'
-dateModified: '2016-02-25T07:27:21.015Z'
+datePublished: '2016-02-25T19:09:13.519Z'
+dateModified: '2016-02-25T19:07:45.163Z'
 title: 'Condominio Montezuma: Casa Club'
 author: []
+sourcePath: _posts/2016-02-25-condominio-montezuma-casa-club.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-25-condominio-montezuma-casa-club.md
-published: true
 url: condominio-montezuma-casa-club/index.html
 _type: Article
 
