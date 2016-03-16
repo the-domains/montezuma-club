@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: The Birmingham II is a spacious family home with 2670 sq.ft
-datePublished: '2016-03-16T05:50:12.383Z'
-dateModified: '2016-03-16T05:50:02.199Z'
+datePublished: '2016-03-16T05:50:28.012Z'
+dateModified: '2016-03-16T05:50:27.505Z'
 title: The Birmingham II
 author: []
 authors: []
