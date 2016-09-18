@@ -29,9 +29,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Rio Perdido
-    id: f33a0779-349b-41bf-a199-8fd1e9e5a24f
-    type: content
   - name: Pets
     id: 4788580c-529a-41b3-978a-b46682e57b6e
     type: content
@@ -40,6 +37,9 @@ navigation:
     type: content
   - name: Flora
     id: 7badd5a7-9f90-4aa9-9927-a647ab9473c3
+    type: content
+  - name: Rio Perdido
+    id: f33a0779-349b-41bf-a199-8fd1e9e5a24f
     type: content
 favicon: null
 title: Montezuma Club
