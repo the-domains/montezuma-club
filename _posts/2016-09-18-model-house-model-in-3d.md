@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-09-18T17:48:48.746Z'
+datePublished: '2016-09-18T18:36:52.930Z'
 sourcePath: _posts/2016-09-18-model-house-model-in-3d.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-18T17:48:48.090Z'
-title: Model House Model in 3D
+dateModified: '2016-09-18T18:36:52.363Z'
+title: ''
 publisher: {}
-description: ''
+description: Model House Model in 3D
 starred: false
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcf79363-7da6-46ee-8553-055764066ab1.jpg)
+Model House Model in 3D
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJytlFFr2zAQx5-zT3EIRlpwrLRpu5LGgcE29rBQ2LKHPQ3VPttKZMlIp6Tp2HefHCdOCt0gdH6RfPrf7076W54oqZdgUSXM0UahKxGJQWkxT1hJVLsx52408G6wRkeDy1hU4slosXZxaipeGU345CvBU-f4FhGHGZu-mWRyBakSziWMsKqVIAxhCM-k3i-UKDK0bDrbY-Cz8Q5hZjJUE17v9C-gBmsrGgwKu6NulanQK-H2YqxcamVNqBnILGHtKgOj06bgI1WofZCtUFNc2-34AXPhFZ2dh1NAWZSUsHeXw_qRwVpmVCbsYjh8y6YT3sKOaj_Yo5ejlpUpTJMQQi8Lcq9UaBRDm9OJrApwNj3x9EMWP2DiWhddv6Pbw06auVBh8ulQEkiSwuehcEBKpsuEfUM6xM8uzu8Y8H9tZcv6q59d2m66H1qXgDY1Jv3GF74Q4Wy30X6bsRK2oXiFkMCvrvb8fv7-y8_Zx9n91x9juLy5vRpdX13fRJ0ArTW2FDpTaMegw16iXq_HOQhb-GA_uXGjicBbFUG4DRjDvJQOcq9TkkZD5R2FG0LeauiT9dgHmQOV2LIhaFt-FoEJYbuWYcf9XCiH_a6PYFctSD5IJWmTlpgud910ikyQ-G7VGE5zfjXihagwbtJZdFQvw1fQFu6IVWH1ClTI3rF-3wXHW1cPpp_-rQewMs1_o-ly-j-IC8drawqLzj1n_gEABK0y" height="800" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJytVMtu2zAQPMdfsVBROAEsyYmSNJUfQIG2pwYB2vTQU0GLK4sJRQokZTsu8u9diYqloOghaXURPd6ZnX1Qc-seJC5HaRqWeh9alJg5oRX8GgE9mZbapPAmSZJZCzjcudAWjOttCkornI0eR8R-JTHKJDKTstyh6ZgbYcVKSOEeUigE56i8ABe2kozAldTZvcdyrUhU7DGF6azLqxwql0IAQYe0GWClXeGBAsW6cC2DHIyqqEDG0UyginKteyOHhL3bNSsx3BpWTaA_Q8bUhtmOVTKzFurgp2KcC7V-yjZg-fCt4K5I4XQ6ffvc3dV0Wu0aTgP-LdmQ8O6sJTzBfwg3zz4UiuMuhfceaxzltZQ2M4hPo8ulZqRnGtmuCG1FM1sCUTInNujxg9xpW9087pZpzsWG-s6sXQQH58HyYGPeFdGFYEn5RUVzC0DwReD_DUCrdpo7V6KqKWxDg40q074_Ys5q6Y5PguU89oSB_soMfgzM9LUSTZRrsCZbBIVzlU3j2CZhbcMtWheeRaxke63Y1kaZLuOyMbKvSxYTK-5lokqtA9_rRZBcBd00_JlJOnzuU4ITTuJziGqUIrtfBN_Q9fjx6cksgJhKI_PUz-7l2wTuocLFuGlMfMeo8BYd-4o3zMC15rVEWAyW5Pbm9sOXn9efrm--_kjh7PLqPLk4v7icHALQGG0KprhEuiyKnEyOjo7iGGida-q_s2kTM4HayAlIoTCC20JYyGvl731ZW0f74WqjYOxMjWMQObgCvTZQrNfnE6C7iGYrLMI4Z9Li-OCDml3RhvkPQFZgdt-5GURw_G4k3fAXze3Oxs0qRnc26LU4c-wVWpvEazX0gVqJ5T-IEbvTepw1V6mdaj_0l28qVUw3mb5sTc3L_6RYGb02aO1zzd_oNve5" height="800" style=""></iframe>
