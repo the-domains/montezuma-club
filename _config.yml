@@ -32,11 +32,11 @@ navigation:
   - name: Here
     id: f4148a81-6bb5-4638-b350-1f530a4a3ed3
     type: content
-  - name: Pets
-    id: 4788580c-529a-41b3-978a-b46682e57b6e
-    type: content
   - name: Fauna
     id: ebb07047-da41-4194-8be5-a2eaed3bcaab
+    type: content
+  - name: Pets
+    id: 4788580c-529a-41b3-978a-b46682e57b6e
     type: content
   - name: Flora
     id: 7badd5a7-9f90-4aa9-9927-a647ab9473c3
