@@ -35,6 +35,9 @@ navigation:
   - name: Pets
     id: 4788580c-529a-41b3-978a-b46682e57b6e
     type: content
+  - name: Flora
+    id: 7badd5a7-9f90-4aa9-9927-a647ab9473c3
+    type: content
 favicon: null
 title: Montezuma Club
 purpose: []
