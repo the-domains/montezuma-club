@@ -4,9 +4,9 @@
         <description><![CDATA[Montezuma Club]]></description>
         <link>http://montezuma.club/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 18 Sep 2016 18:44:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2016 18:44:44 GMT</lastBuildDate>
         <atom:link href="http://montezuma.club/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 18 Sep 2016 18:44:32 GMT</pubDate>
+        <pubDate>Sun, 18 Sep 2016 18:44:35 GMT</pubDate>
         <item>
             <title><![CDATA[Bienvenido a Montezuma]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4b7878e33b52f945bfc8f00af7ae18e716a3846.jpg">]]></description>
@@ -32,20 +32,6 @@
             <link>http://montezuma.club/model-house-model-in-3d/index.html</link>
             <guid isPermaLink="false">7602a62b-447c-49fd-9a6d-a1059f8eb45a</guid>
             <pubDate>Sun, 18 Sep 2016 18:44:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fauna]]></title>
-            <description><![CDATA[<article><h1>Fauna</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4a83ecd-682f-4b1b-87c4-565e9932857c.jpg"></article>]]></description>
-            <link>http://montezuma.club/fauna/index.html</link>
-            <guid isPermaLink="false">ebb07047-da41-4194-8be5-a2eaed3bcaab</guid>
-            <pubDate>Sun, 18 Sep 2016 06:38:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flora]]></title>
-            <description><![CDATA[<article><h1>Flora</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45963d07-80cd-412a-a48e-a0e4cbfe9033.jpg"></article>]]></description>
-            <link>http://montezuma.club/flora/index.html</link>
-            <guid isPermaLink="false">7badd5a7-9f90-4aa9-9927-a647ab9473c3</guid>
-            <pubDate>Sun, 18 Sep 2016 05:39:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
