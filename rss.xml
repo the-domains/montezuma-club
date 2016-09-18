@@ -4,9 +4,9 @@
         <description><![CDATA[Montezuma Club]]></description>
         <link>http://montezuma.club/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 18 Sep 2016 05:44:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2016 05:49:45 GMT</lastBuildDate>
         <atom:link href="http://montezuma.club/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 18 Sep 2016 05:43:57 GMT</pubDate>
+        <pubDate>Sun, 18 Sep 2016 05:49:41 GMT</pubDate>
         <item>
             <title><![CDATA[Bienvenido a Montezuma]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4b7878e33b52f945bfc8f00af7ae18e716a3846.jpg">]]></description>
@@ -30,10 +30,10 @@
         </item>
         <item>
             <title><![CDATA[Pets]]></title>
-            <description><![CDATA[<h1>Pets</h1>]]></description>
+            <description><![CDATA[<article><h1>Pets</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0761725d-0ed8-41b0-af35-71e659f4891e.jpg"></article>]]></description>
             <link>http://montezuma.club/pets/index.html</link>
             <guid isPermaLink="false">4788580c-529a-41b3-978a-b46682e57b6e</guid>
-            <pubDate>Sun, 18 Sep 2016 05:39:22 GMT</pubDate>
+            <pubDate>Sun, 18 Sep 2016 05:49:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fauna]]></title>
