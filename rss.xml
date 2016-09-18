@@ -6,7 +6,7 @@
         <generator>The Grid</generator>
         <lastBuildDate>Sun, 18 Sep 2016 17:49:46 GMT</lastBuildDate>
         <atom:link href="http://montezuma.club/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 18 Sep 2016 17:49:03 GMT</pubDate>
+        <pubDate>Sun, 18 Sep 2016 17:49:04 GMT</pubDate>
         <item>
             <title><![CDATA[Bienvenido a Montezuma]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4b7878e33b52f945bfc8f00af7ae18e716a3846.jpg">]]></description>
@@ -21,6 +21,13 @@
             <pubDate>Sun, 18 Sep 2016 17:48:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Club House]]></title>
+            <description><![CDATA[<article><h1>Club House</h1><p>View of the club house from our place</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b5fdbe867c7b10ca9c98fe7893f76dca/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F5ck_iAhyO0g%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/5ck_iAhyO0g</link>
+            <guid isPermaLink="false">28239e91-e8f0-4b26-8874-95a04d08dc47</guid>
+            <pubDate>Sun, 18 Sep 2016 17:48:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pets]]></title>
             <description><![CDATA[<article><h1>Pets</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0761725d-0ed8-41b0-af35-71e659f4891e.jpg"></article>]]></description>
             <link>http://montezuma.club/pets/index.html</link>
@@ -33,13 +40,6 @@
             <link>http://montezuma.club/rio-perdido/index.html</link>
             <guid isPermaLink="false">f33a0779-349b-41bf-a199-8fd1e9e5a24f</guid>
             <pubDate>Sun, 18 Sep 2016 06:07:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Club House]]></title>
-            <description><![CDATA[<article><h1>Club House</h1><p>View of the club house from our place</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b5fdbe867c7b10ca9c98fe7893f76dca/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F5ck_iAhyO0g%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/5ck_iAhyO0g</link>
-            <guid isPermaLink="false">28239e91-e8f0-4b26-8874-95a04d08dc47</guid>
-            <pubDate>Sun, 18 Sep 2016 04:43:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fauna]]></title>
