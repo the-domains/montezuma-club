@@ -1,29 +1,37 @@
-name: Montezuma Club
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.14347
-title: Montezuma Club
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+typography_spectrum: 0.25060100574046373
+color:
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+  brandStrength: 0.46345926471985877
+  lightness: 0.16621017805300653
+  saturation: 0.690618313383311
+  rhythmicContrast: 0.7943769183475524
+github: true
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#e5eaf0'
-    - '#1d1815'
-    - '#b5c2cb'
-    - '#466021'
-    - '#8b8579'
-  brandStrength: 0.125
-  lightness: 0.875
-  saturation: 0.4375
-  rhythmicContrast: 0.75
+layout_spectrum: 0.8503201405983418
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Lucas M. Ormi
+  email: lucas.oromi@gmail.com
+name: Montezuma Club
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Rio Perdido
+    id: f33a0779-349b-41bf-a199-8fd1e9e5a24f
+    type: content
+favicon: null
+title: Montezuma Club
 purpose: []
