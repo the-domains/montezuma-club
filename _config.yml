@@ -49,4 +49,7 @@ navigation:
     type: content
 favicon: null
 title: Montezuma Club
-purpose: []
+purpose:
+  - type: external
+    url: 'https://s3-us-west-2.amazonaws.com/vrevit/win64/GameMA73C.zip'
+    label: Download the latest house model as a PC game
