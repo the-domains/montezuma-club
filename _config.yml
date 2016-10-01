@@ -47,6 +47,9 @@ navigation:
   - name: Model House Model in 3D
     id: 7602a62b-447c-49fd-9a6d-a1059f8eb45a
     type: content
+  - name: 3D Models
+    id: 5ac7813c-cec3-4108-88e7-be33497f602d
+    type: content
 favicon: null
 title: Montezuma Club
 purpose:
