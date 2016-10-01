@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-10-01T06:16:24.366Z'
+datePublished: '2016-10-01T06:17:51.187Z'
 sourcePath: _posts/2016-09-30-house-model-a.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-01T06:16:23.781Z'
+dateModified: '2016-10-01T06:17:50.496Z'
 title: House Model A
 publisher: {}
 description: Decompress ZIP file and run game.
+hasPage: true
 starred: false
-_type: Blurb
+url: house-model-a/index.html
+_type: Article
 
 ---
 # House Model A
