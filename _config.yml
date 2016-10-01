@@ -29,6 +29,9 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: 3D Models
+    id: 5ac7813c-cec3-4108-88e7-be33497f602d
+    type: content
   - name: Here
     id: f4148a81-6bb5-4638-b350-1f530a4a3ed3
     type: content
@@ -43,9 +46,6 @@ navigation:
     type: content
   - name: Places
     id: f33a0779-349b-41bf-a199-8fd1e9e5a24f
-    type: content
-  - name: 3D Models
-    id: 5ac7813c-cec3-4108-88e7-be33497f602d
     type: content
 favicon: null
 title: Montezuma Club
