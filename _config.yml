@@ -47,6 +47,9 @@ navigation:
   - name: Places
     id: f33a0779-349b-41bf-a199-8fd1e9e5a24f
     type: content
+  - name: Workout
+    id: 9c021f5a-8e2d-4574-8867-4c617ab26a69
+    type: content
 favicon: null
 title: Montezuma Club
 purpose:
