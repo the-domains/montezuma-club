@@ -50,6 +50,9 @@ navigation:
   - name: Workout
     id: 9c021f5a-8e2d-4574-8867-4c617ab26a69
     type: content
+  - name: Blueprint
+    id: 51879dda-52a7-4578-b635-587f3f218962
+    type: content
 favicon: null
 title: Montezuma Club
 purpose:
