@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-10-05T18:00:20.533Z'
+datePublished: '2016-10-05T18:10:51.655Z'
+sourcePath: _posts/2016-10-05-blueprint.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-05T18:00:20.133Z'
+dateModified: '2016-10-05T18:10:51.045Z'
 title: Blueprint
 publisher: {}
 description: ''
-sourcePath: _posts/2016-10-05-blueprint.md
-hasPage: true
 starred: false
 url: blueprint/index.html
 _type: Article
