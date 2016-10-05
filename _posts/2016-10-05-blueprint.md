@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-10-05T18:00:18.257Z'
+datePublished: '2016-10-05T18:00:20.533Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-05T18:00:17.801Z'
+dateModified: '2016-10-05T18:00:20.133Z'
 title: Blueprint
 publisher: {}
 description: ''
