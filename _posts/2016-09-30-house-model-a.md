@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-10-01T06:17:51.187Z'
+datePublished: '2016-10-05T18:00:20.540Z'
 sourcePath: _posts/2016-09-30-house-model-a.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-01T06:17:50.496Z'
+dateModified: '2016-10-05T18:00:20.133Z'
 title: House Model A
 publisher: {}
 description: Decompress ZIP file and run game.
