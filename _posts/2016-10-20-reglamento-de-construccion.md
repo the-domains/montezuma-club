@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-10-20T18:18:19.556Z'
+datePublished: '2016-10-20T18:18:28.880Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-20T18:18:07.428Z'
+dateModified: '2016-10-20T18:18:28.305Z'
 title: Reglamento de Construcción
 publisher: {}
 description: >-
   Únicamente la comisión de construcción podrá aprobar la construcción de casas
   con un área de cobertura inferior a cien metros cuadrados,
-starred: false
 sourcePath: _posts/2016-10-20-reglamento-de-construccion.md
+starred: false
 _type: Blurb
 
 ---
