@@ -4,9 +4,9 @@
         <description><![CDATA[Montezuma Club]]></description>
         <link>http://montezuma.club/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 30 Oct 2016 23:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Oct 2016 23:16:01 GMT</lastBuildDate>
         <atom:link href="http://montezuma.club/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 30 Oct 2016 23:14:42 GMT</pubDate>
+        <pubDate>Sun, 30 Oct 2016 23:14:44 GMT</pubDate>
         <item>
             <title><![CDATA[Bienvenido a Montezuma]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4b7878e33b52f945bfc8f00af7ae18e716a3846.jpg">]]></description>
@@ -43,6 +43,13 @@
             <pubDate>Sun, 30 Oct 2016 23:14:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Pets]]></title>
+            <description><![CDATA[<article><h1>Pets</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0761725d-0ed8-41b0-af35-71e659f4891e.jpg"></article>]]></description>
+            <link>http://montezuma.club/pets/index.html</link>
+            <guid isPermaLink="false">4788580c-529a-41b3-978a-b46682e57b6e</guid>
+            <pubDate>Sun, 30 Oct 2016 23:14:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[House Model A]]></title>
             <description><![CDATA[<article><h1>House Model A</h1><p>Decompress ZIP file and run game.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ce0ba9c-40ca-44fd-88b0-0238083c1086.jpg"></article>]]></description>
             <link>http://montezuma.club/house-model-a/index.html</link>
@@ -69,13 +76,6 @@
             <link>http://montezuma.club/flora/index.html</link>
             <guid isPermaLink="false">7badd5a7-9f90-4aa9-9927-a647ab9473c3</guid>
             <pubDate>Mon, 03 Oct 2016 19:43:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fauna]]></title>
-            <description><![CDATA[<article><h1>Fauna</h1><h2>Golden silk orb-weaver</h2><p>The name of the golden silk orb-weavers refers to the color of the spider silk, not the color of the spider itself.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4a83ecd-682f-4b1b-87c4-565e9932857c.jpg"></article>]]></description>
-            <link>http://montezuma.club/fauna/index.html</link>
-            <guid isPermaLink="false">ebb07047-da41-4194-8be5-a2eaed3bcaab</guid>
-            <pubDate>Mon, 19 Sep 2016 07:19:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
