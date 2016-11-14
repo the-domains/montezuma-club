@@ -4,9 +4,9 @@
         <description><![CDATA[Montezuma Club]]></description>
         <link>http://montezuma.club/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 30 Oct 2016 23:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2016 19:10:39 GMT</lastBuildDate>
         <atom:link href="http://montezuma.club/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 30 Oct 2016 23:15:12 GMT</pubDate>
+        <pubDate>Mon, 14 Nov 2016 19:10:37 GMT</pubDate>
         <item>
             <title><![CDATA[Flora]]></title>
             <description><![CDATA[<article><h1>Flora</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45963d07-80cd-412a-a48e-a0e4cbfe9033.jpg"></article>]]></description>
@@ -43,6 +43,13 @@
             <pubDate>Sun, 30 Oct 2016 23:15:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Muro de Contencion]]></title>
+            <description><![CDATA[<article><h1>Muro de Contencion</h1><h2>CONCRETO SIMPLE CON RESISTENCIA f'c 100 kg/cm² (Concreto Pobre)</h2><p>Tiene una proporción cem:are:grava:agua de 1:3:4:1, una parte de cemento por 3 de arena por 4 de grava y 0.5 de agua, si lo manejas en botes alcoholeros serán 1 bulto 4.5 botes de arena, 6 botes de grava y 1 bote de agua, claro que si lo haces a mano y no en revolvedora mecánica (trompo) tendrás que ponerle mas agua para que sea manejable, lo cual no es preocupante, ya que la plantilla solo tiene la función de aislante entre el terreno y el concreto de la losa de cimentación (evitar contaminación)</p></article>]]></description>
+            <link>http://montezuma.club/muro-de-contencion/index.html</link>
+            <guid isPermaLink="false">4f73b51d-db25-46a5-abba-4ae81772bc48</guid>
+            <pubDate>Mon, 14 Nov 2016 19:10:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tech]]></title>
             <description><![CDATA[<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJytU02PmzAQvedXjKi0ASlgSJYmaYBDpErdw64q7fZUVZWxh-AEbGo7YaOq_70moUoPvVTtzTPzPO8DnHFxAsFzrypDrZT1ioy4VjHJDNOis4VfHSWzQkmfz8DMHDaA7xOAE9Wwd3W1N5ADj3Zo3zfYorRme36huyfaom-Cz_GXjUOLCvzfMdvzA_fdqgA02qOWA2ZcxDRSiyPObdi4QSS4mwl-hUVGM1d6hDAlJTIbVZRhqdQhkmgJyq-fnonhh2hv3rxWZdvkyd0JtXEm8tM8Wt7RrnvgeZIu5-l6tVgt4vlitY69YbuzE3VUO-onxTES0qC2W6yURn-0G2wmP3yu2HEQOIPpNaipO_2SEe6No58GwSYjY4yTbAiaNdSYS9YnwVF5wKmlYa2xyr3a2s68I6Tv-5sfplpikdVOh7ugyeWaIelydR8n8Xq-SFfzNCHjol5wW-deGsdjw9SqDy2-WsdJG4Pu65aNYodvR2URmLD4r7w3R5ekQ5edwVDspAvMsVH4D-aKD2JXhwMSatUiVO4HOWo0GaFF1hX3UP95DramFnrRNMBqKnfoGgg9PUOP0IgTRhnpio_KWORQnuHv1HrFy8D4cC0HLaAkPCrJ6XkGz9hZbEvUkKxnMI-Ttxm5RT8-sp-j4ShK" height="800"></iframe>]]></description>
             <link>https://the-grid.github.io/ed-userhtml/?g=eJytU02PmzAQvedXjKi0ASlgSJYmaYBDpErdw64q7fZUVZWxh-AEbGo7YaOq_70moUoPvVTtzTPzPO8DnHFxAsFzrypDrZT1ioy4VjHJDNOis4VfHSWzQkmfz8DMHDaA7xOAE9Wwd3W1N5ADj3Zo3zfYorRme36huyfaom-Cz_GXjUOLCvzfMdvzA_fdqgA02qOWA2ZcxDRSiyPObdi4QSS4mwl-hUVGM1d6hDAlJTIbVZRhqdQhkmgJyq-fnonhh2hv3rxWZdvkyd0JtXEm8tM8Wt7RrnvgeZIu5-l6tVgt4vlitY69YbuzE3VUO-onxTES0qC2W6yURn-0G2wmP3yu2HEQOIPpNaipO_2SEe6No58GwSYjY4yTbAiaNdSYS9YnwVF5wKmlYa2xyr3a2s68I6Tv-5sfplpikdVOh7ugyeWaIelydR8n8Xq-SFfzNCHjol5wW-deGsdjw9SqDy2-WsdJG4Pu65aNYodvR2URmLD4r7w3R5ekQ5edwVDspAvMsVH4D-aKD2JXhwMSatUiVO4HOWo0GaFF1hX3UP95DramFnrRNMBqKnfoGgg9PUOP0IgTRhnpio_KWORQnuHv1HrFy8D4cC0HLaAkPCrJ6XkGz9hZbEvUkKxnMI-Ttxm5RT8-sp-j4ShK</link>
@@ -69,13 +76,6 @@
             <link>http://montezuma.club/model-house-model-in-3d/index.html</link>
             <guid isPermaLink="false">7602a62b-447c-49fd-9a6d-a1059f8eb45a</guid>
             <pubDate>Sun, 30 Oct 2016 23:14:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[House Model A]]></title>
-            <description><![CDATA[<article><h1>House Model A</h1><p>Decompress ZIP file and run game.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ce0ba9c-40ca-44fd-88b0-0238083c1086.jpg"></article>]]></description>
-            <link>http://montezuma.club/house-model-a/index.html</link>
-            <guid isPermaLink="false">5ac7813c-cec3-4108-88e7-be33497f602d</guid>
-            <pubDate>Wed, 05 Oct 2016 18:00:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
